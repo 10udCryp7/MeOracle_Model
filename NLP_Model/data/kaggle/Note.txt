@@ -1,0 +1,2 @@
+maybe dataset sẽ hỗ trợ việc finetune 
+source: https://www.kaggle.com/datasets/pasindueranga/disease-prediction-based-on-symptoms
